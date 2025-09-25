@@ -1,0 +1,10 @@
+# Ignore everything 
+* 
+ 
+# Except these: 
+!.gitignore 
+!*.py 
+ 
+# Allow folders and subfolder .py files 
+!*/ 
+!**/*.py 
